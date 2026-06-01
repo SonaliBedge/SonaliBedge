@@ -269,7 +269,10 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalibedge&show_icons=true&locale=en" alt="sonalibedge" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalibedge&show_icons=true&locale=en" alt="sonalibedge" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonalibedge&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonalibedge&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonalibedge&theme=github_dark" />
 </p>
 
 <p>
