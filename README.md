@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Full-Stack Developer building civic tech at **Code The Dream Labs**.
+A passionate Full-Stack Developer building civic tech at **Code The Dream Labs**.
 
 Currently contributing to [MyFriendBen](https://www.myfriendben.org) — a platform helping
 10,000+ families across 5 states access public benefits.
