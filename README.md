@@ -268,11 +268,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalibedge&show_icons=true&locale=en&layout=compact" alt="sonalibedge" />
 </p>
 
-<p>&nbsp;
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalibedge&show_icons=true&locale=en" alt="sonalibedge" /> -->
+<p>&nbsp;  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonalibedge&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonalibedge&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonalibedge&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonalibedge&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonalibedge&theme=github_dark" />
 </p>
 
 <p>
