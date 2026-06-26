@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonali Bedge</h1>
 <h3 align="center">Full-Stack Developer | Civic Tech Enthusiast | Building tools that matter</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sonalibedge&label=Profile%20views&color=0e75b6&style=flat" alt="sonalibedge" />
-</p>
-
 - 🔭 Currently contributing to **[MyFriendBen](https://www.myfriendben.org)** — a public benefits eligibility platform serving 60,000+ users across NC, CO, MA, TX & IL
 - 🌱 Deepening skills in **cloud infrastructure, data analytics (dbt + BigQuery + Metabase), and AI/ML integration**
 - 👩‍🏫 Mentoring students at Code The Dream
@@ -14,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SonaliBedge&label=Profile%20Views&color=7aa2f7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sonalibedge&label=Profile%20views&color=0e75b6&style=flat" alt="sonalibedge" />
   <img src="https://badges.pufler.dev/repos/SonaliBedge" />
   <!-- <img src="https://leetcard.jacoblin.cool/GoldRidge?theme=light&font=Karma&ext=contest" />  -->
 </p>
@@ -181,9 +177,16 @@ frontend and backend integration
 </p>
 <hr/>
 <h4 align="left">Live Application</h4>
-<a href="" target="_blank" rel="noreferrer"> My Friend Ben </a>
+[MyFriendBen News](https://myfriendben.ai/?utm_medium=email&_hsenc=p2ANqtz-_2gB7_FP30Wy-6u4QsK_aNcGrn6OqgJoPKjJCNiRkTzbJbi1GssxPeK-ztZaanQlq8m5O8U1A_Q-wndjPvLnu_PKl-Gg&_hsmi=29888862&utm_content=29888862&utm_source=hs_email#) | 
+[MyFriendBen Screener](https://www.myfriendben.org/) | 
+[MyFriendBen NC News](https://bennc.org/) | 
+[MyFriendBen Screener for North Carolina](https://screener.myfriendben.org/nc/step-1)
+
 <hr/>
 <h4 align="left">Metabase Statistics dashboard</h4>
+<p align="center">
+  <img src="./assets/metabase.gif" width="900" alt="Metabase Demo"/>
+</p>
 ----
 <hr/>
 <h3 align="left">📊 My GitHub Activity</h3>
@@ -195,8 +198,37 @@ frontend and backend integration
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonalibedge&theme=github_dark"  width="300px" height="300px"/>
 </p>
 
+## GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonalibedge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonalibedge&layout=compact&theme=tokyonight&hide_border=true"
+      />
+    </td>
+  </tr>
+</table>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalibedge&" alt="sonalibedge" />
+</p> -->
+<p align="center">
+  <img
+    width="50%"
+    src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight&hide_border=true"
+  />
 </p>
+## Current Focus
+
+- Enterprise application development
+- SQL and ETL/data processing workflows
+- Internal business platforms and backend systems
+- Full-stack support with Angular, React, and .NET
+- AI tools for development productivity
+
