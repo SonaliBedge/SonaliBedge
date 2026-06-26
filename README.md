@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sonali_bedge_github_banner.svg" alt="Sonali Bedge Banner" width="100%"/>
+  <img src="./assets/sonali_bedge_cream_terracotta_full_banner.svg" alt="Sonali Bedge Banner" width="100%"/>
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Sonali Bedge</h1>
 <h3 align="center">Full-Stack Developer | Civic Tech Enthusiast | Building tools that matter</h3>
