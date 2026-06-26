@@ -13,6 +13,12 @@
 - 🌐 Portfolio: **[sonalibedge.github.io](https://sonalibedge.github.io/SonaliBedge-Portfolio/)**
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SonaliBedge&label=Profile%20Views&color=7aa2f7&style=flat" />
+  <img src="https://badges.pufler.dev/repos/SonaliBedge" />
+  <!-- <img src="https://leetcard.jacoblin.cool/GoldRidge?theme=light&font=Karma&ext=contest" />  -->
+</p>
+
 <h3 align="left">Tech Stack</h3>
 <hr/>
 
