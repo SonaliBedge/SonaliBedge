@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/sonali_bedge_github_banner.svg" alt="Sonali Bedge Banner" width="100%"/>
 </p>
-<h1 align="center">Hi 👋, I'm Sonali Bedge</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sonali Bedge</h1>
 <h3 align="center">Full-Stack Developer | Civic Tech Enthusiast | Building tools that matter</h3>
 
 - 🔭 Currently contributing to **[MyFriendBen](https://www.myfriendben.org)** — a public benefits eligibility platform serving 60,000+ users across NC, CO, MA, TX & IL
@@ -9,15 +9,15 @@
 - 👩‍🏫 Mentoring students at Code The Dream
 - 💬 Ask me about **Python, Django REST Framework, React, PostgreSQL**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sonali-bedge-488a07155/)**
-- 🌐 Portfolio: **[sonalibedge.github.io](https://sonalibedge.github.io/SonaliBedge-Portfolio/)**
+- 🌐 Portfolio: **[sonalibedge.github.io](https://sonalibedge.github.io/SonaliBedge-Portfolio/)** -->
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonalibedge&label=Profile%20views&color=0e75b6&style=flat" alt="sonalibedge" />
   <img src="https://badges.pufler.dev/repos/SonaliBedge" />
-  <!-- <img src="https://leetcard.jacoblin.cool/GoldRidge?theme=light&font=Karma&ext=contest" />  -->
+ 
 </p>
-
+ <!-- <img src="https://leetcard.jacoblin.cool/GoldRidge?theme=light&font=Karma&ext=contest" />  -->
 <h3 align="left">Tech Stack</h3>
 <hr/>
 
