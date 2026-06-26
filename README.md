@@ -147,8 +147,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
-----
-<hr />
+<hr/>
 <h3 align="left">Featured Project</h3>
 <hr/>
 <h4 align="left">MyFriendBen</h4>
@@ -158,15 +157,14 @@
 The application helps users identify public assistance and support programs they may qualify for based on household information, income, expenses, family size, and current benefits.
 
 Focused on:
-
-eligibility calculation logic
-data-driven workflows
-complex form handling
-business rule processing
-frontend and backend integration
-<br/>
-<br/>
-<strong>Tech Stack:</strong> Python Django React TypeScript SQL
+<ul>
+  <li>Eligibility calculation logic</li>
+  <li>Data-driven workflows</li>
+  <li>Complex form handling</li>
+  <li>Business rule processing</li>
+  <li>Frontend and backend integration</li>
+</ul>
+<strong>Tech Stack:</strong> Python · Django · React · TypeScript · SQL
 </p>
 <hr/>
 <h4 align="left">Demo</h4>
@@ -177,7 +175,7 @@ frontend and backend integration
 </p>
 <hr/>
 <h4 align="left">Live Application</h4>
-[MyFriendBen News](https://myfriendben.ai/?utm_medium=email&_hsenc=p2ANqtz-_2gB7_FP30Wy-6u4QsK_aNcGrn6OqgJoPKjJCNiRkTzbJbi1GssxPeK-ztZaanQlq8m5O8U1A_Q-wndjPvLnu_PKl-Gg&_hsmi=29888862&utm_content=29888862&utm_source=hs_email#) | 
+[MyFriendBen News](https://myfriendben.ai/) | 
 [MyFriendBen Screener](https://www.myfriendben.org/) | 
 [MyFriendBen NC News](https://bennc.org/) | 
 [MyFriendBen Screener for North Carolina](https://screener.myfriendben.org/nc/step-1)
@@ -187,7 +185,6 @@ frontend and backend integration
 <p align="center">
   <img src="./assets/metabase.gif" width="900" alt="Metabase Demo"/>
 </p>
-----
 <hr/>
 <h3 align="left">📊 My GitHub Activity</h3>
 <p align="left">
@@ -221,9 +218,10 @@ frontend and backend integration
 <p align="center">
   <img
     width="50%"
-    src="https://streak-stats.demolab.com?user=IrynaKolh&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=sonalibedge&theme=tokyonight&hide_border=true"
   />
 </p>
+
 ## Current Focus
 
 - Enterprise application development
