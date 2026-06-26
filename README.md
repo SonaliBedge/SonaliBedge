@@ -1,6 +1,12 @@
 <p align="center">
   <img src="./assets/sonali_bedge_cream_terracotta_full_banner.svg" alt="Sonali Bedge Banner" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonalibedge&label=Profile%20views&color=0e75b6&style=flat" alt="sonalibedge" />
+  <img src="https://badges.pufler.dev/repos/SonaliBedge" />
+ 
+</p>
 <!-- <h1 align="center">Hi 👋, I'm Sonali Bedge</h1>
 <h3 align="center">Full-Stack Developer | Civic Tech Enthusiast | Building tools that matter</h3>
 
@@ -12,11 +18,7 @@
 - 🌐 Portfolio: **[sonalibedge.github.io](https://sonalibedge.github.io/SonaliBedge-Portfolio/)** -->
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonalibedge&label=Profile%20views&color=0e75b6&style=flat" alt="sonalibedge" />
-  <img src="https://badges.pufler.dev/repos/SonaliBedge" />
- 
-</p>
+
  <!-- <img src="https://leetcard.jacoblin.cool/GoldRidge?theme=light&font=Karma&ext=contest" />  -->
 <h3 align="left">Tech Stack</h3>
 <hr/>
@@ -177,8 +179,10 @@ Focused on:
   <img src="./assets/ezgif-82c42722b17446f2.gif" width="900" alt="MyFriendBen Demo"/>
 </p>
 <hr/>
-<h4 align="left">Live Application</h4>
-[MyFriendBen News](https://myfriendben.ai/) | 
+
+### Live Application
+
+[MyFriendBen News](https://myfriendben.ai/?utm_medium=email&_hsenc=p2ANqtz-_2gB7_FP30Wy-6u4QsK_aNcGrn6OqgJoPKjJCNiRkTzbJbi1GssxPeK-ztZaanQlq8m5O8U1A_Q-wndjPvLnu_PKl-Gg&_hsmi=29888862&utm_content=29888862&utm_source=hs_email#) | 
 [MyFriendBen Screener](https://www.myfriendben.org/) | 
 [MyFriendBen NC News](https://bennc.org/) | 
 [MyFriendBen Screener for North Carolina](https://screener.myfriendben.org/nc/step-1)
@@ -189,41 +193,53 @@ Focused on:
   <img src="./assets/metabase.gif" width="900" alt="Metabase Demo"/>
 </p>
 <hr/>
-<h3 align="left">📊 My GitHub Activity</h3>
+ <!--<h3 align="left">📊 My GitHub Activity</h3>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonalibedge&theme=github_dark" width="300px" height="300px" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonalibedge&theme=github_dark"  width="300px" height="300px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonalibedge&theme=github_dark"  width="300px" height="300px"/>  
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonalibedge&theme=github_dark"  width="300px" height="300px"/>
-</p>
+</p>-->
 
 ## GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonalibedge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    <td align="center">
+      <img      
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonalibedge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" style="width:420px; height:200px; object-fit:cover;"
       />
     </td>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonalibedge&layout=compact&theme=tokyonight&hide_border=true"
+    <td align="center">
+      <img      
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonalibedge&layout=compact&theme=tokyonight&hide_border=true" style="width:420px; height:200px; object-fit:cover;"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img     
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonalibedge&theme=github_dark" style="width:420px; height:200px; object-fit:cover;"
+      />
+    </td>
+    <td align="center">
+      <img     
+        src="https://streak-stats.demolab.com?user=sonalibedge&theme=tokyonight&hide_border=true" style="width:420px; height:200px; object-fit:cover;"
       />
     </td>
   </tr>
 </table>
 
+
 <!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalibedge&" alt="sonalibedge" />
-</p> -->
+</p> 
 <p align="center">
   <img
     width="50%"
     src="https://streak-stats.demolab.com?user=sonalibedge&theme=tokyonight&hide_border=true"
   />
-</p>
+</p>-->
 
 ## Current Focus
 
